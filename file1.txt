@@ -1,2 +1,2 @@
 This is my file
-This line is added in branch b1
+Good Morning
